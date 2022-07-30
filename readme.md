@@ -16,3 +16,11 @@ Clone the repository
 
 Simply run the command: Python Wrestle_This.py
 
+**To DO**
+Edit spacing for some questions and answers
+
+REFACTOR!! Right now its long and dirty but accomplishes what was in my Brain. 
+
+Update right and wrong answer prompts
+
+Add questions to some kind of DB

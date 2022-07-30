@@ -11,3 +11,14 @@ def show_homepage():
     print('\033[1m' + '----------------------------------------------------------------------------' + '\033[0m')
     print('\033' + '\t\t  |             7.   Exit                 |' + '\033')
     print('\033[1m' + '----------------------------------------------------------------------------' + '\033[0m')
+    
+category =  ('Select a Category:'"\n" + "\n" + 
+             '1) Championships'"\n" +
+             '2) Hall Of Fame'"\n" +
+             '3) Pay Per Views'"\n"
+            )
+category_Alt = ('Select a Category:'"\n" + "\n" + 
+             '1) Championships'"\n" +
+             '2) Company History'"\n" +
+             '3) Pay Per Views'"\n"
+            )
